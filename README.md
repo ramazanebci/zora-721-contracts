@@ -1,5 +1,4 @@
 # Zora NFT Drop Media Contracts
-
 ### How do I integrate these in my own site?
 
 1. Use wagmi/ethers/web3.js with the given artifacts (in the node package) or typechain.
